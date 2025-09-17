@@ -1,1 +1,23 @@
+# requirements.txt
 streamlit
+numpy
+# requirements.txt
+streamlit
+numpy
+pandas
+plotly
+matplotlib
+seaborn
+requests>=2.32
+xarray
+netCDF4
+cartopy
+shapely
+pyproj
+pydap
+pydeck
+pyecharts>=2.0.5
+streamlit-echarts>=0.4.0
+Pillow
+kaggle
+scipy
